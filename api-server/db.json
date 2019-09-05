@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "React Lectures",
+      "description": "Learn React Basics, Author Sajid Khan",
+      "id": 1
+    },
+    {
+      "title": "React-Redux Advance Course",
+      "description": "Learn React-Redux Basics, Author Sajid Khan",
+      "id": 2
+    },
+    {
+      "title": "React-Redux CRUD",
+      "description": "CRUDS operations using react-redux",
+      "id": 4
+    },
+    {
+      "title": "New stream",
+      "description": "new stream to show",
+      "userId": "111592842202869438325",
+      "id": 5
+    }
+  ]
+}
